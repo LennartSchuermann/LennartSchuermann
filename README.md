@@ -1,2 +1,2 @@
 ## Hello!
-[[PB_NT 1.png]]
+![[PB_NT 1.png]]
